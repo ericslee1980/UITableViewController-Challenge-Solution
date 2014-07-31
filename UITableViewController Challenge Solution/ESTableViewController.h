@@ -1,5 +1,5 @@
 //
-//  ESViewController.h
+//  ESTableViewController.h
 //  UITableViewController Challenge Solution
 //
 //  Created by Eric Slee on 7/30/14.
@@ -8,6 +8,6 @@
 
 #import <UIKit/UIKit.h>
 
-@interface ESViewController : UIViewController
+@interface ESTableViewController : UITableViewController
 
 @end
